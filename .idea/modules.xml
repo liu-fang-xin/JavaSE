@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" filepath="$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCollection/TestCollection.iml" filepath="$PROJECT_DIR$/TestCollection/TestCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestException/TestException.iml" filepath="$PROJECT_DIR$/TestException/TestException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestJunit/TestJunit.iml" filepath="$PROJECT_DIR$/TestJunit/TestJunit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOOP/TestOOP.iml" filepath="$PROJECT_DIR$/TestOOP/TestOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestThread/TestThread.iml" filepath="$PROJECT_DIR$/TestThread/TestThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestnNetWork/TestnNetWork.iml" filepath="$PROJECT_DIR$/TestnNetWork/TestnNetWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/常用类的使用方法/常用类的使用方法.iml" filepath="$PROJECT_DIR$/常用类的使用方法/常用类的使用方法.iml" />
+    </modules>
+  </component>
+</project>
