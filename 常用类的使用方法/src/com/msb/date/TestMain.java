@@ -28,6 +28,7 @@ public class TestMain {
 
             String dateString = df.format(date3);
             System.out.println("dateString = " + dateString);
+            System.out.println("dateString = " + dateString);
         } catch (ParseException e) {
             e.printStackTrace();
         }
